@@ -4,8 +4,9 @@
     margin: auto;
     margin-top: 15%;
     padding: 20px 0;
-    color: white;
+    color: white; 
     border-radius:10px; 
+    background-image:linear-gradient(rgb(42, 160, 111), rgb(42, 200, 11), green, forestgreen )
 }
 
 
